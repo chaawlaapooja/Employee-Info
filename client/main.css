@@ -1,0 +1,15 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background-color: #DCDCDC
+}
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px;
+}
+
